@@ -1,4 +1,9 @@
-﻿# Doctor Who Quotes - Command Palette Extension
+﻿# Skyrim Quotes - Command Palette Extension - WIP
+
+3/16 - Initial Fork - No changes as of yet.
+
+---
+
 
 A delightful Command Palette extension that brings the wisdom, wit, and wonder of Doctor Who to your fingertips. Get inspired with random quotes from all incarnations of the Doctor, from the First Doctor through the War Doctor, Ninth, and Tenth Doctors.
 
