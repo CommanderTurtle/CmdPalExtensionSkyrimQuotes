@@ -1,6 +1,6 @@
 ﻿# Skyrim Quotes - Command Palette Extension - WIP
 
-3/16 - Initial Fork - No changes as of yet.
+3/16 - Initial Fork - No changes or functionality modifications as of yet.
 
 ---
 
